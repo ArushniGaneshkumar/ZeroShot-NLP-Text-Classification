@@ -3,7 +3,7 @@ Transformer-based zero-shot text classification system capable of categorizing u
 Overview
 Implemented a transformer-based zero-shot classification framework capable of classifying text into previously unseen categories.
 
-##Flow diagram
+## Flow diagram
 
 Rare Disease List
         ↓
