@@ -5,25 +5,7 @@ Implemented a transformer-based zero-shot classification framework capable of cl
 
 ## Flow diagram
 
-Rare Disease List
-        ↓
-Wikipedia Data Collection
-        ↓
-Disease Knowledge Base
-        ↓
-BioBERT Embedding Generation
-        ↓
-Disease Embedding Repository
-        ↓
-User Symptom Input
-        ↓
-BioBERT Encoding
-        ↓
-Cosine Similarity Matching
-        ↓
-Top-K Disease Prediction
-        ↓
-Radar/Bubble Visualization
+Rare Disease List --> Wikipedia Data Collection --> Disease Knowledge Base --> BioBERT Embedding Generation --> Disease Embedding Repository --> User Symptom Input --> BioBERT Encoding --> Cosine Similarity Matching --> Top-K Disease Prediction --> Radar/Bubble Visualization
 
 Features
 -Zero-shot inference
