@@ -1,0 +1,26 @@
+Rare Disease Knowledge Base Generation
+Pseaudocode
+Input:
+    List of rare diseases
+
+Process:
+    Fetch disease descriptions from Wikipedia
+    Validate retrieved information
+    Store structured records
+
+Output:
+    Disease Knowledge Base (CSV Dataset)
+
+BioBERT-Based Rare Disease Prediction System
+Pseudocode
+Input:
+    Patient symptom description
+
+Process:
+    BioBERT embedding generation
+    Semantic similarity computation
+    Disease ranking
+
+Output:
+    Top predicted rare diseases
+    Similarity score visualizationu
